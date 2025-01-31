@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simplicity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Simplicity</h1>
+        <p>Your one-stop solution for easy presentations, posters, and projects.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="plans.html">Plans</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Welcome to Simplicity</h2>
+        <p>We help you create projects, presentations, and posters effortlessly with just a few clicks!</p>
+        <p>Get started today and make life easier with the power of automation.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Simplicity. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

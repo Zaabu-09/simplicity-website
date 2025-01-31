@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plans - Simplicity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Simplicity</h1>
+        <p>Your one-stop solution for easy presentations, posters, and projects.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="plans.html">Plans</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Our Plans</h2>
+        <div class="plan">
+            <h3>Basic Plan</h3>
+            <p>19.50 AED per month (auto-billed)</p>
+        </div>
+        <div class="plan">
+            <h3>Gold Plan</h3>
+            <p>30.00 AED per month</p>
+            <p>1 AED per day will reduce the stress for the whole day.</p>
+        </div>
+        <div class="plan">
+            <h3>Yearly Plan</h3>
+            <p>40.00 AED annually (320.00 AED billed yearly)</p>
+            <p>Save on a yearly subscription!</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Simplicity. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+

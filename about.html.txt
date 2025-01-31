@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Simplicity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Simplicity</h1>
+        <p>Your one-stop solution for easy presentations, posters, and projects.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="plans.html">Plans</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>About Us</h2>
+        <p>At Simplicity, we believe in simplifying your life. In today’s fast-paced world, we know how stressful it can be to design and create presentations or posters. That’s why we've developed a smart bot to do all the hard work for you.</p>
+        <p>Our mission is simple: to help you spend less time stressing about design and more time focusing on what really matters.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Simplicity. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
