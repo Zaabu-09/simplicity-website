@@ -1,1 +1,1 @@
-# simplicity-website
+# simplicity
